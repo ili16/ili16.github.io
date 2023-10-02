@@ -4,6 +4,7 @@
 
 - [Tomatensuppe](/?recipe=tomatosoup)
 - [Pizza](/?recipe=pizza)
+- [Chicken Alfredo Pasta](/?recipe=Chicken-Alfredo-Pasta)
 
 ## 🍔 Fast Food
 
