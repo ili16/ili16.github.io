@@ -17,3 +17,8 @@
 - [Röstkartoffeln](/?recipe=roast-potatoes)
 - [Nudelsalat](/?recipe=pasta-salad)
 - [Arroz Rojo / Mexikanischer Reis](/?recipe=arroz-rojo)
+
+## Brot
+
+- [Ciabatta](/?recipe=Ciabatta.md)
+- [Fladenbrot](?recipe=fladenbrot.md)

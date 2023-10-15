@@ -12,34 +12,37 @@
 - **1** Zwiebel
 - **2** Knoblauchzehen
 - **50g** Butter
+- **50g** Parmesan
 - **Strauch** frische Petersilie
-- **1** Salz
-- **1** Pfeffer
-- **1** Parmesan
  
 
 ## Zubereitung
 
 ### Vorbereitung
 
-- Fleisch in Würfel schneiden
+- Fleisch in Würfel schneiden und mit S/P würzen
 - Zwiebel fein hacken
 - Knoblauch fein hacken
 - Champignons in Scheiben schneiden
 - Pasta Wasser zum Kochen bringen und salzen
 - Parmesan reiben
+- Petersilie fein hacken
 
-### Fleischmasse zubereiten
+### Sauce kochen
 
-Das Rindfleisch anbraten. Wenn das Hackfleisch anfängt braun zu werden, Zwiebel
-hinzugeben. Wenn die Zwiebeln glasig sind, die passierten Tomaten und die 
-Kidneybohnen hinzugeben. Die Fleischmasse mit Salz, Pfeffer, Kreuzkümmel und
-dem Chillipulver würzen und noch kurz weiter braten lassen.
+- Fleisch scharf anbraten und zur Seite legen
+- Zwiebel glasig braten
+- Champignons und Butter hinzugeben, salzen
+- Knoblauch hinzugeben
+- Sobald Champignons gute Farbe haben mit Sahne ablöschen
+- Spinat hinzugeben, salzen
+- Fleisch hinzugeben mit S/P abschmecken und alles aufkochen lassen
+ 
 
 ### Alles kombinieren
 
-Die Fleischmasse gleichmäßig auf den Tortillachips verteilen. Dann Tomaten und
-Olivenscheiben ebenfalls darauf verteilen. Abschließend mit Käse bestreuen.
-
-Bei 200°C Ober-/Unterhitze in den Ofen und ca. 10 Minuten drin lassen, bis der
-Käse schön zerschmolzen ist.
+- Nudeln nach Anleitung kochen
+- ein Glas Nudelwasser zur Seite legen
+- Nudeln sieben und wieder in den Topf geben
+- Sauce hinzugeben, rühren und bei Bedarf Nudelwasser hinzu geben
+- mit Parmesan servieren
