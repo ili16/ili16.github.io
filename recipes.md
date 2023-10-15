@@ -20,5 +20,5 @@
 
 ## Brot
 
-- [Ciabatta](/?recipe=Ciabatta.md)
-- [Fladenbrot](?recipe=fladenbrot.md)
+- [Ciabatta](/?recipe=Ciabatta)
+- [Fladenbrot](?recipe=fladenbrot)
