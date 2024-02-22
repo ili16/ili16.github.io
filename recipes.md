@@ -6,7 +6,7 @@
 - [Pizza](/?recipe=pizza)
 - [Chicken Alfredo Pasta](/?recipe=Chicken-Alfredo-Pasta)
 - [Carbonara](/?recipe=carbonara)
-- [Lasagna](/?recipe=lasagne)
+- [Lasagne](/?recipe=lasagne)
 
 ## 🍔 Fast Food
 
