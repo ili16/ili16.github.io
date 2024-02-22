@@ -34,7 +34,9 @@
 - **Esslöffel** Olivenöl zum Einfetten der Form
 
 
-## Mise en Place
+## Zubereitung
+
+### Mise en Place
 
 - Zwiebel, Sellerie, Karotten in Würfel schneiden
 - Pancetta in Würfel schneiden
@@ -42,7 +44,7 @@
 - 200ml Brühe aufkochen und zur Seite legen
 - 200ml Milch abmessen und zur Seite legen
 
-## Zubereitung Ragú
+### Ragú
 
 - Ofen auf ca. 110 Grad vorheizen.
 - Schweinefleisch und Rindfleisch in einer großen Schüssel vorsichtig mischen.
@@ -59,7 +61,7 @@
 - Topf abdecken und in den Ofen stellen, ca. 3-4 Stunden backen, bis die Fleischbällchen auseinanderfallen.
 - Fleischbällchen etwas zerkleinern, um die Sauce zu verdicken.
 
-## Zubereitung Bechamel
+### Bechamel
 
 - Butter in einem großen Topf bei mittlerer Hitze schmelzen.
 - Mehl einrühren und goldbraun anrösten.
@@ -67,7 +69,7 @@
 - Hitze reduzieren und Parmesan, Cayennepfeffer und Muskatnuss unterrühren.
 - Mit Salz und Pfeffer abschmecken.
 
-### Lasagne Zusammenbau
+### Zusammenbau
 
 - Lasagneplatten für 3 Minuten in gut gesalzenem Wasser vorkochen und auf Backpapier auslegen
 - Ofen auf ca. 160 Grad Celsius vorheizen.
