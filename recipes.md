@@ -23,3 +23,4 @@
 
 - [Ciabatta](/?recipe=Ciabatta)
 - [Fladenbrot](?recipe=fladenbrot)
+- [Baguette](?recipe=baguette)
