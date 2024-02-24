@@ -2,16 +2,14 @@
 
 ## 🍝 Haupgerichte
 
-- [Tomatensuppe](/?recipe=tomatosoup)
-- [Pizza](/?recipe=pizza)
 - [Chicken Alfredo Pasta](/?recipe=Chicken-Alfredo-Pasta)
 - [Carbonara](/?recipe=carbonara)
 - [Lasagne](/?recipe=lasagne)
+- [Spaghetti Bolognese](/?recipe=bolognese)
 
 ## 🍔 Fast Food
 
 - [Smashed Burger](/?recipe=smashed-burger) 
-- [Nachos](/?recipe=nachos)
 - [Enchiladas](/?recipe=enchiladas)
 
 ## 🥗 Beilagen
