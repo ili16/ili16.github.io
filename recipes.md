@@ -6,6 +6,7 @@
 - [Carbonara](/?recipe=carbonara)
 - [Lasagne](/?recipe=lasagne)
 - [Spaghetti Bolognese](/?recipe=bolognese)
+- [Mango Curry](/?recipe=mango-curry)
 
 ## 🍔 Fast Food
 
