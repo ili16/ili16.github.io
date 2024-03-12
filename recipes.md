@@ -7,6 +7,7 @@
 - [Lasagne](/?recipe=lasagne)
 - [Spaghetti Bolognese](/?recipe=bolognese)
 - [Mango Curry](/?recipe=mango-curry)
+- [Nudeln Calaberese](/?recipe=nudeln-calabrese)
 
 ## 🍔 Fast Food
 
