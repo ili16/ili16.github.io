@@ -25,3 +25,4 @@
 - [Ciabatta](/?recipe=Ciabatta)
 - [Fladenbrot](?recipe=fladenbrot)
 - [Baguette](?recipe=baguette)
+- [Burger Buns](?recipe=burger-buns)
