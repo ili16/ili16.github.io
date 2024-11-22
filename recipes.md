@@ -28,5 +28,3 @@
 - [Burger Buns](?recipe=burger-buns)
 - [Foccacia](?recipe=foccacia)
 - [Potato Rolls](?recipe=potato-rolls)
-
-- [example-recipe](recipes/example-recipe.md)
