@@ -1,6 +1,6 @@
 # Rezepte
 
-## 🍝 Haupgerichte
+## 🍝 Hauptgerichte
 
 - [Chicken Alfredo Pasta](/?recipe=Chicken-Alfredo-Pasta)
 - [Carbonara](/?recipe=carbonara)
@@ -8,17 +8,12 @@
 - [Spaghetti Bolognese](/?recipe=bolognese)
 - [Mango Curry](/?recipe=mango-curry)
 - [Nudeln Calaberese](/?recipe=nudeln-calabrese)
+- [Fleischbällchen](?recipe=Fleischbällchen.md)
 
 ## 🍔 Fast Food
 
 - [Smashed Burger](/?recipe=smashed-burger) 
 - [Enchiladas](/?recipe=enchiladas)
-
-## 🥗 Beilagen
-
-- [Röstkartoffeln](/?recipe=roast-potatoes)
-- [Nudelsalat](/?recipe=pasta-salad)
-- [Arroz Rojo / Mexikanischer Reis](/?recipe=arroz-rojo)
 
 ## 🍞 Brot
 
@@ -28,4 +23,6 @@
 - [Burger Buns](?recipe=burger-buns)
 - [Foccacia](?recipe=foccacia)
 - [Potato Rolls](?recipe=potato-rolls)
-- [Beef Wellington](recipes/Beef-Wellington.md)
+
+## 💻 ChatGPT
+- [Beef Wellington](?recipe=Beef-Wellington)
