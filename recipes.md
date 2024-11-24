@@ -26,3 +26,4 @@
 
 ## 💻 ChatGPT
 - [Beef Wellington](?recipe=Beef-Wellington)
+- [Gyoza](?recipe=Gyoza)
