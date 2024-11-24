@@ -28,3 +28,4 @@
 - [Burger Buns](?recipe=burger-buns)
 - [Foccacia](?recipe=foccacia)
 - [Potato Rolls](?recipe=potato-rolls)
+- [Beef Wellington](recipes/Beef-Wellington.md)
