@@ -8,7 +8,7 @@
 - [Spaghetti Bolognese](/?recipe=bolognese)
 - [Mango Curry](/?recipe=mango-curry)
 - [Nudeln Calaberese](/?recipe=nudeln-calabrese)
-- [Fleischbällchen](?recipe=Fleischbällchen)
+- [Fleischbällchen](?recipe=Fleischbaellchen)
 
 ## 🍔 Fast Food
 
