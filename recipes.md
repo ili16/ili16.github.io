@@ -9,6 +9,7 @@
 - [Mango Curry](/?recipe=mango-curry)
 - [Nudeln Calaberese](/?recipe=nudeln-calabrese)
 - [Fleischbällchen](?recipe=Fleischbaellchen)
+- [Korean Fried Chicken Burger](/?recipe=korean-fried-chicken)
 
 ## 🍔 Fast Food
 

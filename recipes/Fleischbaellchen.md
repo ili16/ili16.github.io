@@ -44,8 +44,6 @@
 - **115g** Butter  
 - Salz  
 
----
-
 ## Zubereitung
 
 ### Fleischbällchen  
@@ -71,7 +69,6 @@
 2. Wasser abgießen, Butter hinzufügen und die Kartoffeln grob zerdrücken (etwas stückig lassen).  
 3. Mit Salz abschmecken.  
 
----
 
 ## Servieren
 
