@@ -8,17 +8,17 @@
 - **25 g** oder **8-10** Zehen Knoblauch, gehackt 
 - **3-4** Zweige Thymianblätter 
 - **1** Zweig Rosmarinblätter 
-- **20 g** oder **1/3 Tasse** Petersilie, gehackt 
-- **3 g** oder **2 Teelöffel** getrockneter Oregano 
+- **20 g** Petersilie, gehackt 
+- **3 g** getrockneter Oregano 
 - **Prise** Chili-Flocken 
 
 ### Für den Knoblauchknotenteig:
-- **180 g** oder **3/4 Tasse** warmes Wasser 
-- **10 g** oder **2,5 Teelöffel** Instanthefe 
-- **15 g** oder **1,25 Teelöffel** Olivenöl 
-- **5 g** oder **1,25 Teelöffel** Zucker 
-- **280 g** oder **2,75 Tassen** Brotmehl 
-- **9 g** oder **1 1/3 Teelöffel** Salz 
+- **180 g** warmes Wasser 
+- **10 g** Instanthefe 
+- **15 g** Olivenöl 
+- **5 g** Zucker 
+- **280 g** Brotmehl 
+- **9 g** Salz 
 
 ### Zum Fertigstellen und Backen:
 - Grob geriebener Parmesan 
@@ -48,5 +48,3 @@
 3. Abdecken und 20-30 Minuten gehen lassen.
 4. Bei 230 °C (450 °F) 12-15 Minuten backen, bis sie goldbraun sind.
 5. Nach dem Herausnehmen aus dem Ofen die Oberseite mit der Knoblauchbutter bestreichen. 
-
-Viel Spaß beim Zubereiten Ihrer köstlichen Knoblauch-Knoten!
