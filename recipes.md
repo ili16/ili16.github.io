@@ -29,5 +29,5 @@
 - [Beef Wellington](?recipe=Beef-Wellington)
 - [Gyoza](?recipe=Gyoza)
 - [Chicken Lo Mein](?recipe=Chicken-Lo-Mein)
-- [garlic knots](?recipe=garlic-knots)
-- [New Recipe](?recipe=New-Recipe)
+- [Garlic Knots](?recipe=garlic-knots)
+- [Himber Cookies](?recipe=himbeer-cookies)
