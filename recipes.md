@@ -30,3 +30,4 @@
 - [Gyoza](?recipe=Gyoza)
 - [Chicken Lo Mein](?recipe=Chicken-Lo-Mein)
 - [garlic knots](?recipe=garlic-knots)
+- [Potato Pave](?recipe=Potato-Pave)
