@@ -10,6 +10,7 @@
 - [Nudeln Calaberese](/?recipe=nudeln-calabrese)
 - [Fleischbällchen](?recipe=Fleischbaellchen)
 - [Korean Fried Chicken Burger](/?recipe=korean-fried-chicken)
+- [New York Style Pizza](/?recipe=newyork-pizza)
 
 ## 🍔 Fast Food
 

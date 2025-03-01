@@ -70,6 +70,6 @@
 3. Mit Salz abschmecken.  
 
 
-## Servieren
+### Servieren
 
 Die Fleischbällchen mit der Soße, dem Preiselbeergelee und den Kartoffeln anrichten. Guten Appetit!  
