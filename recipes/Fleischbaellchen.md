@@ -2,7 +2,7 @@
 
 ## Zutaten
 
-### Fleischbällchen
+### Fleischbaellchen
 
 - **150g** weiße Zwiebel, klein gewürfelt  
 - Olivenöl  
